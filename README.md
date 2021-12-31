@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Winfred Adu-Acheampong. I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
+
+### Technologies 👩‍💻 and Tools 🔧
+![](https://img.shields.io/badge/OS-WINDOWS-BLUE)  ![](https://img.shields.io/badge/EDITOR-VS_Code-BLUE)  ![](https://img.shields.io/badge/CODE-PYTHON-BLUE)  ![](https://img.shields.io/badge/CODE-HTML-BLUE)
+![](https://img.shields.io/badge/CODE-CSS-BLUE)  ![](https://img.shields.io/badge/TOOLS-POSTGRESQL-BLUE) 
