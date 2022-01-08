@@ -29,7 +29,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/winfred56" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 </div>
 
