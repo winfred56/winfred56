@@ -71,9 +71,11 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 <h3>IDE & Tools</h3>
 
 <a href="https://www.code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-vscode-white?logo=vscode&logoColor=FF9800&style=for-the-badge" alt="vscode"/></a>
-<a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/-pycharm-white?logo=pycharm&logoColor=FF9800&style=for-the-badge" alt="pycharm"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
+ <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/-linux-white?logo=linux&logoColor=0078D6&style=for-the-badge" alt="Linux"/></a>
 <a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
+
 
 
 <small><strong>*</strong> Studying and improving technology skills.</small>
