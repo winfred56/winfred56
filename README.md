@@ -43,18 +43,15 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 <h3>Back-end & Front-end</h3>
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
-
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a>
-
+ 
 <a href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a>
-
 <a href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a>
 
 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
-
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
 
 
@@ -63,7 +60,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 
-<h3>Testing</h3>
+<!--<h3>Testing</h3>-->
 
 
 <h3>Version Control & CI/CD</h3>
