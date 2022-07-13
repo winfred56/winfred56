@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Adu-Acheampong Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Backend developer, Python, Django and all the technology behind it...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Backend developer, Python, Django, Dart, Flutter and all the technology behind it...</h3>
 I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
 
 <ul style="list-style: none;">
@@ -43,7 +43,12 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 <h3>Back-end & Front-end</h3>
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
+
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a>
+
+<a href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a>
+
+<a href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a>
 
 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
