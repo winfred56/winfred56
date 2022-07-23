@@ -21,7 +21,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently DjangoRestFramework)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>Django, HTML, CSS, Translations</strong></li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>Python, Django, HTML, CSS, Flutter & Firebase </strong></li>
 <li>:ghana: From Kumasi, Ghana</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's Rock n' Roll and Code, baby.</li>
