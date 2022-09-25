@@ -16,6 +16,7 @@ Here are some ideas to get you started:
  
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Adu-Acheampong Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Backend developer, Python, Django, Dart, Flutter and all the technology behind it...</h3>
 I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
 
@@ -95,8 +96,8 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 </div>
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=1c4c1a)](https://github.com/kittinan/spotify-github-profile)
  
 ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
 
