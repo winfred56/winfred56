@@ -97,7 +97,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 
 <div align="center">
  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=1c4c1a)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
  
 ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
 
