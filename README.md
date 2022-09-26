@@ -31,19 +31,10 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 </ul>
 
  
- ## Find me around the web 🌎: <a href="https://github.com/winfred56"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
--  <a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=twitter&textColor=white&style=flat-square" alt="twitter"/></a> ✍🏾
--  <a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a> ⛹️
--  <a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=linkedin&style=flat-square" alt="linkedin"></a> 💼
- 
- <div align="center">
-<h3>Contact Me :handshake:</h3>
-<a href="https://github.com/winfred56" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-blue?logo=twitter&textColor=white&style=flat-square" alt="twitter"/></a>
-</div>
-
+ ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+-  <a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=twitter&textColor=white&style=flat" alt="twitter"/></a> ✍🏾
+-  <a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=instagram&textColor=white&style=flat" alt="instagram"/></a> ⛹️
+-  <a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=linkedin&style=flat" alt="linkedin"></a> 💼
 
 ---
 
