@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">:man_technologist:</h1>
 
+<img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
+
 <!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">-->
 
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Backend developer, Python, Django, Dart, Flutter and all the technology behind it...</h3>
