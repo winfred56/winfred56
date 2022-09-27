@@ -19,19 +19,30 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
 
-<!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">-->
-
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Backend developer, Python, Django, Dart, Flutter and all the technology behind it...</h3>
+Hi, I'm Winfred! Welcome to my digital playground 🤾‍♂️.
 I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
 
+<div align="center">
+<h2>Knowledge Base :hammer_and_wrench:</h2>
+</div>
+
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently DjangoRestFramework)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>Python, Django, HTML, CSS, Flutter & Firebase </strong></li>
-<li>:ghana: From Kumasi, Ghana</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-<li>:metal: Let's Rock n' Roll and Code, baby.</li>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
+ 
+<a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a>
+ 
+<a href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a>
+ 
+<a href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a>
+ 
+<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
+ 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
+ 
+<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 </ul>
 
+<strong><strong>*</strong> Studying and improving technology skills.</strong>
  
  ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 -  <a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-aa_winfred-black?logo=twitter&textColor=white&style=flat" alt="twitter"/></a> ✍🏾
@@ -40,50 +51,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 
 ---
 
-<div align="center">
-<h2>Knowledge Base :hammer_and_wrench:</h2>
 
-<h3>Back-end & Front-end</h3>
-
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
-<a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a>
- 
-<a href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a>
-<a href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a>
-
-
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
-<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
-<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
-
-
-<h3>Database</h3>
-
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
-
-<!--<h3>Testing</h3>-->
-
-
-<h3>Version Control & CI/CD</h3>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
-
-<h3>Cloud & Hosting</h3>
-
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-amazon_aws-white?logo=amazonaws&logoColor=232F3E&style=for-the-badge" alt="amazonaws"/></a>
-  
-<h3>IDE & Tools</h3>
-
-<a href="https://www.code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-vscode-white?logo=vscode&logoColor=FF9800&style=for-the-badge" alt="vscode"/></a>
-<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/-pycharm-white?logo=pycharm&logoColor=FF9800&style=for-the-badge" alt="pycharm"/></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
- <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/-linux-white?logo=linux&logoColor=0078D6&style=for-the-badge" alt="Linux"/></a>
-<a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
-
-
-
-<small><strong>*</strong> Studying and improving technology skills.</small>
 
 ---
 
