@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">:man_technologist:</h1>
 
@@ -22,24 +21,24 @@ Here are some ideas to get you started:
 Hi, I'm Winfred! Welcome to my digital playground 🤾‍♂️.
 I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
 
-<div align="center">
+<div align="left">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 </div>
 
-<ul style="list-style: none;">
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
+<ul style= "list-style-type: none; overflow: hidden;">
+<li style="float: left;"><a style="display: block;" href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a></li>
  
-<a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a>
+<li style="float: left;"><a style="display: block;" href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a></li>
  
-<a href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a>
+<li style="float: left;"><a style="display: block;" href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a></li>
  
-<a href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a>
+<li style="float: left;"><a style="display: block;" href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a></li>
+<!--  
+<li><a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a></li>
  
-<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
+<li><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a></li>
  
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
- 
-<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
+<li><a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a></li> -->
 </ul>
 
 <strong><strong>*</strong> Studying and improving technology skills.</strong>
@@ -51,7 +50,7 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 
 ---
 
-
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
 
 ---
 
@@ -66,8 +65,8 @@ I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkr
 </div>
 
 <div align="center">
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
+<!--  
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true) -->
  
 ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
 
