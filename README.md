@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
 
-Hi, I'm Winfred! Welcome to my digital playground 🤾‍♂️.
+Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.
 I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
 
 <div align="left">
