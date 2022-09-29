@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
 
-Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.
-I'm a backend developer from Kumasi, Ghana. I'm currently a student of Kwame Nkrumah University of Science and Technology offering Computer Science.
+<p>Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.</p>
+I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: student of Kwame Nkrumah University of Science and Technology offering Computer Science :computer:.
 
 <div align="left">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
