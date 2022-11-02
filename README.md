@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">:man_technologist:</h1>
+<!--<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">:man_technologist:</h1>-->
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Winfred!;Welcome+to+my+digital+playground+⚽️+🥅;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Winfred!;Welcome+to+my+digital+playground+⚽️+🥅;I'm+a+software+developer+from+Ghana+🇬🇭&center=true&width=500&height=50"></a>
 </p>
 
-
-<p>Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.</p>
-I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: student of <strong>Kwame Nkrumah University of Science and Technology</strong> offering <strong>Computer Science :computer: </strong>.
+<!--<p>Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.</p>
+I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: student of <strong>Kwame Nkrumah University of Science and Technology</strong> offering <strong>Computer Science :computer: </strong>.-->
 
 <div align="left">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
