@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!--<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Winfred<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">:man_technologist:</h1>-->
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
@@ -66,7 +67,10 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 
 [![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56)
-
+  
+<!--Graph-->
+<!--![winfred56's Activity Graph](https://activity-graph.herokuapp.com/graph?username=winfred56&custom_title=Winfred's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)-->
+  
 </div>
 </div>
 
