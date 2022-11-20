@@ -71,7 +71,7 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 [![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56)
   
 <!--Graph-->
-<!-- ![winfred56's Activity Graph](https://activity-graph.herokuapp.com/graph?username=winfred56&custom_title=Winfred's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
+![winfred56's Activity Graph](https://activity-graph.herokuapp.com/graph?username=winfred56&custom_title=Winfred's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
   
 </div>
 </div>
