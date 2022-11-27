@@ -79,5 +79,7 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 
 <!-- Profile visits --> 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
+  
+  ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
+  
 </div>
