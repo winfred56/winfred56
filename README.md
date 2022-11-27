@@ -56,8 +56,8 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 -  <a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=linkedin&style=flat" alt="linkedin"></a> 💼
 
 ---
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
+<!-- Spotify GitHub Profile -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=novatorem&show_offline=true&background_color=0f6f9f&bar_color=188b09&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
 
 ---
 
@@ -70,16 +70,14 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 [![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56)
   
+  
 <!--Graph-->
 <!-- ![winfred56's Activity Graph](https://activity-graph.herokuapp.com/graph?username=winfred56&custom_title=Winfred's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
   
 </div>
 </div>
 
+<!-- Profile visits --> 
 <div align="center">
-<!--  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=2fdb29)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true) -->
- 
 ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
-
 </div>
