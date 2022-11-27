@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FF0C0C00&center=true&vCenter=true&multiline=true&width=615&height=80&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Winfred+Adu-Acheampong.;Welcome+to+my+digital+playground+%E2%9A%BD%EF%B8%8F%F0%9F%8F%83%F0%9F%8E%BE%F0%9F%8E%AE..+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006712FF&background=FF0C0C00&center=true&vCenter=true&multiline=true&width=615&height=80&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Winfred+Adu-Acheampong.;Welcome+to+my+digital+playground+%E2%9A%BD%EF%B8%8F%F0%9F%8F%83%F0%9F%8E%BE%F0%9F%8E%AE..+)](https://git.io/typing-svg)
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Winfred!;Welcome+to+my+digital+playground+⚽️+🥅;I'm+a+software+developer+from+Ghana+🇬🇭&center=true&width=500&height=50&color=black"></a>
