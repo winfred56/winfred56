@@ -57,7 +57,7 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 
 ---
 <!-- Spotify GitHub Profile -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=novatorem&show_offline=true&background_color=0f6f9f&bar_color=188b09&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&cover_image=true&theme=novatorem&show_offline=false&background_color=0f6f9f&bar_color=188b09&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316zahqizj5m75xf7macri4erlje&redirect=true)
 
 ---
 
@@ -78,6 +78,7 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 </div>
 
 <!-- Profile visits --> 
+
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=winfred56&style=flat-square)
