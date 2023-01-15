@@ -75,9 +75,10 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 <div align="center">
 
 <!-- 
-[![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=winfred56&theme=dark&background=000000)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=winfred56&theme=dark&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=transparent&border_radius=25)
 
   
 <!--Graph-->
