@@ -31,8 +31,17 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 <div align="left">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 </div>
+<div align='center'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
 
-<ul style= "list-style-type: none; overflow: hidden;">
+<!-- <ul style= "list-style-type: none; overflow: hidden;">
 <li style="float: left;"><a style="display: block;" href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a></li>
  
 <li style="float: left;"><a style="display: block;" href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-white.svg?style=for-the-badge&logo=django&logoColor=777BB4" alt="django"/></a></li>
@@ -40,20 +49,19 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 <li style="float: left;"><a style="display: block;" href="https://www.dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=777BB4" alt="dart"/></a></li>
  
 <li style="float: left;"><a style="display: block;" href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a></li>
-<!--  
-<li><a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a></li>
- 
-<li><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a></li>
- 
-<li><a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a></li> -->
-</ul>
 
-<strong><strong>*</strong> Studying and improving technology skills.</strong>
- 
- ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+</ul> -->
+
+<strong><div align='center'>Studying and improving technology skills.</div></strong>
+ ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?raw=true"></a>
 -  <a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-aa_winfred-black?logo=twitter&textColor=white&style=flat" alt="twitter"/></a> ✍🏾
 -  <a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-aa_winfred-black?logo=instagram&textColor=white&style=flat" alt="instagram"/></a> ⛹️
 -  <a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=linkedin&style=flat" alt="linkedin"></a> 💼
+<!--  
+ ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+-  <a href="https://www.twitter.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-aa_winfred-black?logo=twitter&textColor=white&style=flat" alt="twitter"/></a> ✍🏾
+-  <a href="https://www.instagram.com/aa_winfred" target="_blank"><img src="https://img.shields.io/badge/-aa_winfred-black?logo=instagram&textColor=white&style=flat" alt="instagram"/></a> ⛹️
+-  <a href="https://www.linkedin.com/in/winfred-adu-acheampong-934623198" target="_blank"><img src="https://img.shields.io/badge/-Winfred-black?logo=linkedin&style=flat" alt="linkedin"></a> 💼 -->
 
 ---
 <!-- Spotify GitHub Profile -->
@@ -66,10 +74,10 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 
 <div align="center">
 
-
+<!-- 
 [![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56)
-  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56) -->
+
   
 <!--Graph-->
 <!-- ![winfred56's Activity Graph](https://activity-graph.herokuapp.com/graph?username=winfred56&custom_title=Winfred's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
