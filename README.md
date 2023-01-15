@@ -77,6 +77,7 @@ I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: st
 <!-- 
 [![](https://github-readme-stats.vercel.app/api?username=winfred56&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/winfred56)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=winfred56&theme=tokyonight&hide_border=true)](https://github.com/winfred56) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=winfred56&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 <!--Graph-->
