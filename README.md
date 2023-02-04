@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Winfred!;Welcome+to+my+digital+playground+⚽️+🥅;I'm+a+software+developer+from+Ghana+🇬🇭&center=true&width=500&height=50&color=black"></a>
 </p> -->
 
-<!--<p>Hi, I'm Winfred! Welcome to my digital playground :soccer::running:.</p>
-I'm a backend developer from Kumasi, Ghana :ghana:. I'm currently a :student: student of <strong>Kwame Nkrumah University of Science and Technology</strong> offering <strong>Computer Science :computer: </strong>.-->
 
 <div align="left">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
