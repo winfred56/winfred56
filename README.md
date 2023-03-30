@@ -1,7 +1,7 @@
 
 <!--
 - 🔭 I’m currently working on ... AdinkraXpresa
-- 📫 How to reach me: ...
+- 📫 
 - ⚡ Fun fact: ...
 -->
 
