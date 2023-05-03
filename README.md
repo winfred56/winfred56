@@ -40,6 +40,12 @@
 <li style="float: left;"><a style="display: block;" href="https://www.flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=777BB4" alt="flutter"/></a></li>
 
 </ul> -->
+<!-- <div align="center">
+<!--   <a href="https://1999azzar.github.io/1999AZZAR/"> -->
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /> -->
+<!-- 	</a> -->
+<!-- </div> -->
 
 <strong><div align='center'>Studying and improving technology skills.</div></strong>
  ## Find me around the web 🌎 :handshake:: <a href="https://github.com/winfred56"><img align="left" width="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?raw=true"></a>
