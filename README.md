@@ -11,8 +11,7 @@
 <!--<img src="https://raw.githubusercontent.com/winfred56/winfred56/main/header.png" alt="banner">-->
 # 👋 Hello! I'm Winfred Adu-Acheampong
 A passionate Mobile Developer with a focus on creating seamless and delightful mobile experiences. 
-
-💡 As a creative problem solver, I thrive on transforming ideas into user-friendly and visually appealing mobile applications. With over 2 years of hands-on experience in mobile app development, I bring a strong foundation in Flutter, a versatile and powerful framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+💡 As a creative problem solver</h1>, I thrive on transforming ideas into user-friendly and visually appealing mobile applications. With over 2 years of hands-on experience in mobile app development, I bring a strong foundation in Flutter, a versatile and powerful framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
 🛠️ Whether it's crafting pixel-perfect UIs, optimizing performance, or implementing complex features, I am dedicated to delivering high-quality, cross-platform solutions that meet both user needs and business objectives.
 
